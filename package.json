@@ -6,12 +6,8 @@
   "license": "MIT",
   "src": [
     "compat.h",
-    "map.c",
-    "map.h",
     "snappy.c",
     "snappy.h",
-    "util.c",
-    "util.h",
     "LICENSE"
   ]
 }
