@@ -1,0 +1,16 @@
+{
+  "name": "snappy",
+  "version": "1.0.0",
+  "repo": "clibs/snappy",
+  "description": "Google Snappy compression algorithm implementation",
+  "license": "MIT",
+  "src": [
+    "map.c",
+    "map.h",
+    "snappy.c",
+    "snappy.h",
+    "util.c",
+    "util.h",
+    "LICENSE"
+  ]
+}
